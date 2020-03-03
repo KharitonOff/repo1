@@ -3,3 +3,5 @@
 test status again
 
 search no users found bug
+test unknown user
+
